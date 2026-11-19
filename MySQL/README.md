@@ -16,6 +16,9 @@ This folder contains my MySQL learning exercises and practical assignments. It d
   - Primary keys
   - Foreign keys
 - Dropping primary key constraints
+- Creating indexes
+- Creating unique indexes
+- Dropping indexes
 
 ## Practical Exercises
 
@@ -24,6 +27,8 @@ This folder contains my MySQL learning exercises and practical assignments. It d
 - Inserted records using the `INSERT INTO` statement.
 - Added primary key and foreign key constraints to tables.
 - Dropped a primary key constraint while retaining the column and its data.
+- Practised creating normal and unique indexes.
+- Dropped an index from a table.
 
 ## Tools Used
 
