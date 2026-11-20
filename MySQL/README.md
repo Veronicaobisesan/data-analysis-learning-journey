@@ -19,6 +19,11 @@ This folder contains my MySQL learning exercises and practical assignments. It d
 - Creating indexes
 - Creating unique indexes
 - Dropping indexes
+- Filtering data using IS NULL and IS NOT NULL
+- Using logical operators: AND, OR, and NOT
+- Filtering data within a range using BETWEEN
+- Filtering data based on multiple values using IN
+- Limiting query results using LIMIT
 
 ## Practical Exercises
 
@@ -29,6 +34,11 @@ This folder contains my MySQL learning exercises and practical assignments. It d
 - Dropped a primary key constraint while retaining the column and its data.
 - Practised creating normal and unique indexes.
 - Dropped an index from a table.
+- Retrieved records with missing and non-missing values.
+- Combined conditions using logical operators.
+- Filtered records within specified ranges.
+- Retrieved records matching specific values.
+- Limited the number of records returned by queries.
 
 ## Tools Used
 
